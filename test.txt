@@ -1,1 +1,2 @@
-This is a test
+This is a test1 by changed from branch update script
+this is a test2 from branch 2
